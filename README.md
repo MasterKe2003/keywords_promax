@@ -23,6 +23,7 @@
 - [摸鱼](https://github.com/MasterKeee/moyu)：获取一张摸鱼人日历
 - [付费音乐解析](https://github.com/MasterKeee/get_music)：解析付费音乐
 - [八卦](https://github.com/MasterKeee/bagua)：获取明星八卦信息
+- [二维码生成](https://github.com/MasterKeee/qr)：生成二维码
 
 其他开发者插件
 - [sum4all](https://github.com/fatwang2/sum4all)：大模型内容总结服务
