@@ -29,6 +29,7 @@
 其他开发者插件
 - [sum4all](https://github.com/fatwang2/sum4all)：大模型内容总结服务
 - [ali_img](https://github.com/ZYWNB666/ali_img)：阿里通义千问绘图插件
+- [plugin_midjourney](https://github.com/Git-HandClup/plugin_midjourney)：用于调用Midjourney
 
 ## 插件安装
 [点我打开](https://github.com/zhayujie/chatgpt-on-wechat/tree/master/plugins#%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95)
