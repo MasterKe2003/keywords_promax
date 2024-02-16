@@ -24,6 +24,7 @@
 - [付费音乐解析](https://github.com/MasterKeee/get_music)：解析付费音乐
 - [八卦](https://github.com/MasterKeee/bagua)：获取明星八卦信息
 - [二维码生成](https://github.com/MasterKeee/qr)：生成二维码
+- [搜题](https://github.com/MasterKeee/search_questions)：大学生必备
 
 其他开发者插件
 - [sum4all](https://github.com/fatwang2/sum4all)：大模型内容总结服务
