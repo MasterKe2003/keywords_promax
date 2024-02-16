@@ -27,6 +27,7 @@
 - [搜题](https://github.com/MasterKeee/search_questions)：大学生必备
 
 其他开发者插件
+- [timetask](https://github.com/haikerapples/timetask)：自定义定时任务
 - [sum4all](https://github.com/fatwang2/sum4all)：大模型内容总结服务
 - [ali_img](https://github.com/ZYWNB666/ali_img)：阿里通义千问绘图插件
 - [plugin_midjourney](https://github.com/Git-HandClup/plugin_midjourney)：用于调用Midjourney
