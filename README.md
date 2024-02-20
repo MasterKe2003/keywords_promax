@@ -5,10 +5,15 @@
 ## 交流群
 - 🫠[Telegram](https://t.me/ggkejishuo_group)
 - 📢微信公众号：基基科技说（资讯号，推送前沿AI新闻资讯）
-<img src="https://cdn.jsdelivr.net/gh/MasterKeee/picture/%E5%9F%BA%E5%9F%BA%E7%A7%91%E6%8A%80%E8%AF%B4.png" width = "300" alt="基基科技说" align="center"/>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/MasterKeee/picture/%E5%9F%BA%E5%9F%BA%E7%A7%91%E6%8A%80%E8%AF%B4.png" width = "300" alt="基基科技说" />
+</div>
 
 - 🤖微信公众号：基基科技（服务号，接入了本目录下所有插件，可查看效果）
-<img src="https://cdn.jsdelivr.net/gh/MasterKeee/picture/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" width = "300" alt="基基科技说" align="center"/>
+
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/MasterKeee/picture/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png" width = "300" alt="基基科技说" />
+</div>
 
 - 🐧[QQ & WeChat](https://masterke.feishu.cn/docx/Xuw4dHxPWoeJdgxDblNcpe7unqf?from=from_copylink)
 
